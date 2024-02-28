@@ -1,5 +1,5 @@
 <h1>Namaste! I am Rachit Tandale</h1>
-<h3>A passionate frontend developer from India</h3>
+<h3>A enthusiast in the world of computer technologies. I am always keen to listen and learn about new technologies</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

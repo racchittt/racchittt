@@ -1,9 +1,9 @@
-<h1>Namaste! I am Rachit Tandale</h1>
+<h1>Greetings! I am Rachit Tandale</h1>
 <h3>A enthusiast in the world of computer technologies. I am always keen to listen and learn about new technologies</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rachit-tandale-514190237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rachit-tandale-514190237/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rachit-tandale-514190237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rachit-tandale-514190237/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

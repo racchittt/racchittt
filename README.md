@@ -1,10 +1,11 @@
 <h1 align="left">Hello! I am Rachit Tandale</h1>
+<h4><a href= "rachittandale.vercel.app">Portfolio</a></h4>
 
 ###
 
 <p align="left">I am a third year BTech Computer Science Student who has passion for web development and exploring the world of technologies🌐</p>
 <h2>💫 About Me:</h2>
-💻I am working on a MERN stack website.<br>📚I am currently learning React + Typescript.<br>
+💻I am working on a NextJS website.<br>📚I am currently learning Next.<br>
 
 
 ## 🌐 Socials:
@@ -15,7 +16,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=racchittt&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=racchittt&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

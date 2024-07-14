@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I am a third year BTech Computer Science Student who has passion for web development and exploring the world of technologies🌐</p>
+<p align="left">I am a Final year BTech Computer Science Student and for the past two years I have been developing stupid things which sometimes turn out great ;)</p>
 <h2>💫 About Me:</h2>
 💻I am working on a NextJS website.<br>📚I am currently learning Next.<br>
 
